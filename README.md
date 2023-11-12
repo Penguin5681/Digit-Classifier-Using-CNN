@@ -26,7 +26,7 @@ The project involves:
 
 ## Usage
 
-1. Ensure all necessary libraries are installed (Keras, NumPy, OpenCV, Matplotlib, etc.).
+1. Ensure all necessary libraries are installed (Keras, NumPy, OpenCV, Tensorflow, etc.).
 2. Set up the dataset in a directory named 'myData' containing subdirectories for each class of digit images.
 3. Run the Python script provided to train the model and evaluate its performance.
 
