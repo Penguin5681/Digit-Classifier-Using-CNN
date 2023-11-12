@@ -1,2 +1,2 @@
 # Digit-Classifier-Using-CNN
-A Digit Classification program made using Convolutional Neural Network
+A Simple Digit Classification program made using Convolutional Neural Network 
